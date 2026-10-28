@@ -1,0 +1,17 @@
+{
+  "name": "stockmap",
+  "owner": {
+    "name": "Yojowa LLC",
+    "email": "support@yojowa.com"
+  },
+  "metadata": {
+    "description": "StockMap for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "stockmap",
+      "source": "./",
+      "description": "Every night StockMap's model makes a call on over 4,000 US stocks and keeps a public record of how each call turned out. See a stock's call, the reasons for and against, its record, and the whole market as a map."
+    }
+  ]
+}

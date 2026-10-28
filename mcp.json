@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stockmap": {
+      "type": "http",
+      "url": "https://stockmap.io/mcp"
+    }
+  }
+}

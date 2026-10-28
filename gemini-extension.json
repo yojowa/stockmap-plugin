@@ -1,0 +1,11 @@
+{
+  "name": "stockmap",
+  "version": "1.0.0",
+  "description": "Every night StockMap's model makes a call on over 4,000 US stocks and keeps a public record of how each call turned out. See a stock's call, the reasons for and against, its record, and the whole market as a map.",
+  "mcpServers": {
+    "stockmap": {
+      "httpUrl": "https://stockmap.io/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

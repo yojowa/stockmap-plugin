@@ -1,0 +1,36 @@
+{
+  "name": "stockmap",
+  "displayName": "StockMap",
+  "version": "1.0.0",
+  "description": "Every night StockMap's model makes a call on over 4,000 US stocks and keeps a public record of how each call turned out. See a stock's call, the reasons for and against, its record, and the whole market as a map.",
+  "author": {
+    "name": "Yojowa LLC",
+    "email": "support@yojowa.com",
+    "url": "https://yojowa.com"
+  },
+  "homepage": "https://stockmap.io/assistants",
+  "repository": "https://github.com/yojowa/stockmap-plugin",
+  "license": "MIT",
+  "keywords": [
+    "stockmap",
+    "stocks",
+    "stock market",
+    "market map",
+    "sectors",
+    "us stocks",
+    "crypto",
+    "bitcoin",
+    "watchlists",
+    "finance",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "category": "integrations",
+  "tags": [
+    "stockmap",
+    "finance",
+    "stocks",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
